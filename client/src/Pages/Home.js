@@ -5,17 +5,16 @@ import Image2 from '../Images/Image 2.jpg'
 const Home = () => {
   return (
     <div className="Home">
-      <h1 className='mainTitle'> Digital Design Agency</h1>
-      <p className='caption'>We are a full service agency designing digital experiences for large and small businesses alike.</p>
+      <h1 className='mainTitle'>WeHire</h1>
+      <p className='caption'>An HR Consultancy, Where Talent meets Opportunity</p>
       <br /><br /><br />
-      <button>Learn More</button>
       <br /><br /><br /><br />
       <div className="Work">
         <div className="sec">
           <div className="content">
-            <h1>Metastaq</h1>
-            <p>Metastaq lets brands easily create truly personal Web 3.0 experiences on their own terms.Having thoroughly studied theconcept, client's industry and the targetaudience, we identified all the shortcomingsof the mockup we received from the client,brainstormed new ideas and worked togetherwith the client on the development of a product that would be bound to win in its space.</p>
-            <button>View Case Study</button>
+            <h1>Internship</h1>
+            <p>We help you land up internships in the field of Data Analytics, Software Development and Project Management</p>
+            <button>Find More</button>
           </div>
           <div className="image">
             <img src={Image1} alt="img1" />
@@ -27,9 +26,9 @@ const Home = () => {
           <img src={Image2} alt="img2" />
         </div>
         <div className="content">
-        <h1>Olumo</h1>
-            <p>A web platform built to help companies drive data informed decisions about the culture of their organization. Listening to your team is an important thing.  Being that Olumo brings organizations into an enlightened awareness of the health of their teams well being, it was suitable to design a mark that demonstrated this.</p>
-            <button>View Case Study</button>
+        <h1>Full-Time</h1>
+            <p>We help you land up Full-Time offers in the field of Data Analytics, Software Development and Project Management.</p>
+            <button>Learn More</button>
         </div>
         
         </div>
