@@ -3,22 +3,22 @@
 const data= [
     {
         key:"1",
-        title:"Technical Program Manager",
+        title:"Software Developer (Full Time)",
         location:"San Francisco, CA, USA",
     },
     {
         key:"2",
-        title:"Data architect",
+        title:"Data Analyst Intern",
         location:"New York, NY, USA",
     },
     {
         key:"3",
-        title:"DevOps engineer",
+        title:"Project Management Intern",
         location:"New York, NY, USA",
     },
     {
         key:"4",
-        title:"Mobile app developer",
+        title:"Data Science Co-op",
         location:"New York, NY, USA",
     },
     {
@@ -28,7 +28,7 @@ const data= [
     },
     {
         key:"6",
-        title:"UX Designer",
+        title:"UI-UX Designer",
         location:"Mountain View, CA, USA",
     },
     
